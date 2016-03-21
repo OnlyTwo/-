@@ -1,0 +1,155 @@
+*{
+			margin: 0;
+			padding: 0;
+		}
+		ul{
+			list-style: none;
+		}
+		a{
+			text-decoration: none;
+		}
+		#container{
+			width: 1360px;
+			background: #dedede;
+			position: relative;
+		}
+		#nav{
+			height: 60px;
+			background: #333333;
+			width: 1360px;
+		}
+		#guide{
+			float: right;
+			margin-top: 19px;
+		}
+		#guide li{
+			width: 90px;
+			height: 36px;
+			margin-right: 7px;
+			float: left;
+		}
+		#guide .white{
+			color: white;
+		}
+		#guide .gray{
+			color: gray;
+		}
+		#nav img{
+			float: left;
+			margin-top: 10px;
+		}
+		#firsttxt{
+			margin-top: 20px;
+			margin-left: 40px;
+			margin-bottom: 20px;
+			margin-right: 40px;
+			background-color: #ffffff;
+		}
+		#firsttxt .one{
+			color: gray;
+			line-height: 20px;
+		}
+		#firsttxt .two{
+			line-height: 30px;
+		}
+		#firsttxt p{
+			text-indent: 20px;
+		}
+		#anothertxt{
+			margin-top: 20px;
+			margin-left: 40px;
+			margin-bottom: 20px;
+			margin-right: 40px;
+			background-color: #ffffff;
+			position: relative;
+		}
+		#anothertxt .one{
+			color: gray;
+			line-height: 20px;
+		}
+		#anothertxt .two{
+			line-height: 30px;
+		}
+		#anothertxt p{
+			text-indent: 20px;
+		}
+		#list{
+			margin-left: 30px;
+			margin-top: 10px;
+			padding-bottom: 10px;
+		}
+		#list li{
+			margin-bottom: 5px;
+		}
+		#images{
+			margin-top: 20px;
+			margin-left: 40px;
+			margin-bottom: 20px;
+			margin-right: 40px;
+			background-color: #ffffff;
+			position: relative;
+		}
+		#images .img{
+			margin-bottom: 20px;
+			text-align: center;
+			border: solid 1px gray;
+		}
+		#excel{
+			margin-top: 20px;
+			margin-left: 40px;
+			margin-bottom: 20px;
+			margin-right: 40px;
+			background-color: #ffffff;
+			position: relative;
+		}
+		#excel .one{
+			color: gray;
+			line-height: 30px;
+			text-indent: 20px;
+		}
+		#paiming{
+			margin-left: 30px;
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
+		table{
+			border-collapse: collapse;
+			width: 100%;
+		}
+		#firsttr{
+			background-color: #333333;
+		}
+		#lasttr{
+			background-color: #cccccc;
+		}
+		#information{
+			margin-top: 20px;
+			margin-left: 40px;
+			margin-bottom: 20px;
+			margin-right: 40px;
+			background-color: #ffffff;
+			position: relative;
+			text-align: center;
+			line-height: 30px;
+		}
+		#tijiao{
+			width: 1240px;
+			margin-left: 20px;
+			height: 40px;
+			background-color: #3355d0;
+			text-align: center;
+			font-size: 24px;
+			line-height: 40px;
+			color: white;
+			border-radius: 4px;
+		}
+		#banquan{
+			width: 1320px;
+			height: 40px;
+			background-color: black;
+			text-align: center;
+			font-size: 24px;
+			line-height: 40px;
+			color: white;
+			
+		}
